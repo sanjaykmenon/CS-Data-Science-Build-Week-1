@@ -74,3 +74,9 @@ def k_nearest_neighbor(point, data, labels, k=3):
             break
 
     return label
+
+    #things left to be done
+    # - comparison with scikit learn
+    #medium blog post
+    #better docstrings
+    
